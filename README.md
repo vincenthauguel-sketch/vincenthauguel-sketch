@@ -1,7 +1,3 @@
-# Bonjour, je suis Vincent 👋
-
-Passionné de technologie, j'héberge mes propres services sur un VPS OVH.
-
 ## 🖥️ Mon infrastructure
 
 | Service | URL | Description |
